@@ -12,6 +12,5 @@ Build a stronger, more reliable digital world by applying professional developme
 </ul>
 <hr/>
 <ul>
-  <li>Creator of MindCanvas- A MERN(Full) Stack, multi-purpose content creation tool designed to help you visualize, structure, and organize information clearly.</li>
-  <li>The Demo repository is set to private visibility since it is being updated for better experiences. The full version is actively engineered for personal use.</li>
+  <li>Developer of MindCanvas- A private, offline multi purpose tool to explore, analysize, create, make sense of complex data. It's designed for personal use.</li>
 </ul>
