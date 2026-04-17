@@ -11,6 +11,4 @@ Build a stronger, more reliable digital world by applying professional developme
   <li>Are crafted with precision—pushing beyond the ordinary (with a touch of anime-inspired ambition ✨)</li>
 </ul>
 <hr/>
-<ul>
-  <li>Developer of MindCanvas- A private, offline multi purpose tool to explore, analysize, create, make sense of complex data. It's designed for personal use.</li>
-</ul>
+<p>Developer of MindCanvas- A private, offline multi purpose tool to explore, analyze, create, make sense of complex data. It's designed for personal use.</p>
