@@ -2,7 +2,7 @@
 <p>I have many. But the top ones are listed</p>
 <ul>
   <li>Figma Website Design</li>
-  <li>Taylored Websites for service contractors</li>
+  <li>Taylored Websites for service contractors- My Linkedin has more info</li>
   <li>Cybersecurity Purple Teaming</li>
 </ul>
 
